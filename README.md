@@ -87,6 +87,19 @@ npm start
 
 Generate a Pair Code using your deployment site.
 
+
+<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap; padding:20px;">
+
+  <!-- Link 1 -->
+  <div style="background:#0f0f0f; border:2px solid #00FFFF; border-radius:10px; padding:15px 25px; box-shadow:0 0 12px #00ffff; min-width:250px; text-align:center;">
+    <p style="color:#ffffff; font-family:sans-serif; margin-bottom:8px;">
+      🔗 <strong>01. Pairing Server</strong>
+    </p>
+    <a href="https://khanxmd-pair.onrender.com"target="_blank">
+      <img src="https://img.shields.io/badge/01._PAIR_CODE_-F0FF00?style=for-the-badge&logo=matrix&logoColor=white&labelColor=0d0d0d"/>
+    </a>
+  </div>
+
 After downloading **creds.json**, place it inside
 
 ```
