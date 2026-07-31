@@ -1,7 +1,8 @@
 # 🤖 Legacy Mini Bot
 
 <p align="center">
-  <img src="./assets/logo.png" width="180" alt="Legacy Mini Bot">
+  <img src="./assets/logo.png"
+ width="180" alt="Legacy Mini Bot">
 </p>
 
 <h1 align="center">Legacy Mini Bot</h1>
