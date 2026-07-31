@@ -141,6 +141,7 @@ Legacy-Mini-Bot
 # 🌐 Official Links
 
 [![Website:](https://img.shields.io/badge/SAT%20Limited%20Website-blue?style=for-the-badge)](https://sat-limited.vercel.app)
+
 [![GitHub:](https://img.shields.io/badge/SAT%20Limited%20Website-black& white?style=for-the-badge)](https://github.com/SAT-Limited-Organization/Legacy-Mini-Bot)
 
 WhatsApp Channel
