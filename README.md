@@ -1,7 +1,7 @@
 # 🤖 Legacy Mini Bot
 
 <p align="center">
-  <img src="./assets/logo.png"width="180" alt="Legacy Mini Bot">
+  <img src="./assets/logo.png"width="180" alt="https://camo.githubusercontent.com/2b7141e4940627f2733c6f181d2fbd338077b4684394ab6c3cff2f11d4fe7491/68747470733a2f2f66696c65732e636174626f782e6d6f652f33376473376a2e706e67">
 </p>
 
 <h1 align="center">Legacy Mini Bot</h1>
@@ -95,7 +95,7 @@ Generate a Pair Code using your deployment site.
     <p style="color:#ffffff; font-family:sans-serif; margin-bottom:8px;">
       🔗 <strong>01. Pairing Server</strong>
     </p>
-    <a href="https://khanxmd-pair.onrender.com"target="_blank">
+    <a href="https://legacy-md-bot.onrender.com"target="_blank">
       <img src="https://img.shields.io/badge/01._PAIR_CODE_-F0FF00?style=for-the-badge&logo=matrix&logoColor=white&labelColor=0d0d0d"/>
     </a>
   </div>
