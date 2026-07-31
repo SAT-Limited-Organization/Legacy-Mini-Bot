@@ -1,7 +1,7 @@
 # 🤖 Legacy Mini Bot
 
 <p align="center">
-  <img src="./assets/logo.png" width="180" alt="Legacy Mini Bot">
+  <img src="./assets/logo.png"width="180" alt="Legacy Mini Bot">
 </p>
 
 <h1 align="center">Legacy Mini Bot</h1>
@@ -60,7 +60,7 @@ It includes only the most useful commands while maintaining excellent performanc
 Clone the repository
 
 ```bash
-git clone https://github.com/sat-limited-org/Legacy-Mini-Bot.git
+git clone https://github.com/SAT-Limited-Organization/Legacy-Mini-Bot.git
 ```
 
 Move into the project
@@ -140,13 +140,8 @@ Legacy-Mini-Bot
 
 # 🌐 Official Links
 
-Website
-
-https://sat-limited.vercel.app
-
-GitHub
-
-https://github.com/sat-limited-org
+[![Website:](https://img.shields.io/badge/SAT%20Limited%20Website-blue?style=for-the-badge)](https://sat-limited.vercel.app)
+[![GitHub:](https://img.shields.io/badge/SAT%20Limited%20Website-black& white?style=for-the-badge)](https://github.com/SAT-Limited-Organization/Legacy-Mini-Bot)
 
 WhatsApp Channel
 
