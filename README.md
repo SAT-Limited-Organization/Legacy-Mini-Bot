@@ -1,7 +1,7 @@
 # 🤖 Legacy Mini Bot
 
 <p align="center">
-  <img src="./assets/logo.png"width="180" alt="https://camo.githubusercontent.com/2b7141e4940627f2733c6f181d2fbd338077b4684394ab6c3cff2f11d4fe7491/68747470733a2f2f66696c65732e636174626f782e6d6f652f33376473376a2e706e67">
+  <img src="https://files.catbox.moe/n3yhre.png" width="180" alt="Powered By the SAT Limited">
 </p>
 
 <h1 align="center">Legacy Mini Bot</h1>
