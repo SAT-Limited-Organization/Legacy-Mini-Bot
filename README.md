@@ -4,7 +4,7 @@
   <img src="https://files.catbox.moe/n3yhre.png" width="180" alt="Powered By the SAT Limited">
 </p>
 
-<h1 align="center">Legacy Mini Bot</h1>
+<h1 align="center">Powered By the SAT Limited</h1>
 
 <p align="center">
 A lightweight, fast and reliable WhatsApp Multi-Device Bot built with the Baileys library.
