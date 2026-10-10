@@ -1,6 +1,6 @@
+<align="center">
 # 🤖 Legacy Mini Bot
 
-<p align="center">
   <img src="https://files.catbox.moe/n3yhre.png" width="180" alt="Powered By the SAT Limited">
 </p>
 
