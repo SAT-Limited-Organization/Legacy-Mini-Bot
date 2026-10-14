@@ -161,7 +161,7 @@ async function startXeonBotInc() {
                             forwardingScore: 10,
                             isForwarded: true,
                             forwardedNewsletterMessageInfo: {
-                                newsletterJid: '120363161513685998@newsletter',
+                                newsletterJid: '120363410818567479@newsletter',
                                 newsletterName: 'SAT LIMITED',
                                 serverMessageId: -1
                             }
@@ -270,8 +270,8 @@ async function startXeonBotInc() {
                         forwardingScore: 1,
                         isForwarded: true,
                         forwardedNewsletterMessageInfo: {
-                            newsletterJid: '120363161513685998@newsletter',
-                            newsletterName: 'KnightBot MD',
+                            newsletterJid: '120363410818567479@newsletter',
+                            newsletterName: 'SAT Limited',
                             serverMessageId: -1
                         }
                     }
@@ -283,10 +283,10 @@ async function startXeonBotInc() {
             await delay(1999)
             console.log(chalk.yellow(`\n\n                  ${chalk.bold.blue(`[ ${global.botname || 'KNIGHT BOT'} ]`)}\n\n`))
             console.log(chalk.cyan(`< ================================================== >`))
-            console.log(chalk.magenta(`\n${global.themeemoji || '•'} YT CHANNEL: SIMBARASHEMC`))
+            console.log(chalk.magenta(`\n${global.themeemoji || '•'} YT CHANNEL: SAT LIMITED`))
             console.log(chalk.magenta(`${global.themeemoji || '•'} GITHUB: Simbarasheat`))
             console.log(chalk.magenta(`${global.themeemoji || '•'} WA NUMBER: ${owner}`))
-            console.log(chalk.magenta(`${global.themeemoji || '•'} CREDIT: MR SIMBARASHE`))
+            console.log(chalk.magenta(`${global.themeemoji || '•'} CREDIT: MR SIMBARASHE TEMBO`))
             console.log(chalk.green(`${global.themeemoji || '•'} 🤖 Bot Connected Successfully! ✅`))
             console.log(chalk.blue(`Bot Version: ${settings.version}`))
         }
