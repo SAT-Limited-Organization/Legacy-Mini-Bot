@@ -3,7 +3,7 @@ const settings = {
   author: '‎',
   botName: "Legacy Mini Bot",
   botOwner: 'SAT Limited', // Your name
-  ownerNumber: '260967993714', //Set your number here without + symbol, just add country code & number without any space
+  ownerNumber: '260967993714','260772697513', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   maxStoreMessages: 20, 
